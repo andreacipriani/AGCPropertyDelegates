@@ -36,7 +36,6 @@ public final class DebuggingAccessorsExample {
     var surname: String
     
     func run() {
-        
         name = "Andreo"
         DispatchQueue(label: "bg").async {
             self.name = "Andrea"
