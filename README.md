@@ -6,5 +6,5 @@ A collection of Swift property delegates
   
   <p align="left">
     <img width="275" height="100" src="images/debugging-accessors-annotations.png">
-    <img width="500" height="100" src="images/debugging-accessors-logs.png">
+    <img width="500" height="120" src="images/debugging-accessors-logs.png">
   </p>  
