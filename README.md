@@ -5,6 +5,6 @@ A collection of Swift property delegates
   -  Prints every access to `get` or `set` of the tagged variable, together with the current thread description
   
   
-  ![](images/debugging-accessors-annotations.png | width=100)
+  ![](images/debugging-accessors-annotations.png)
   ![](images/debugging-accessors-logs.png)
   
